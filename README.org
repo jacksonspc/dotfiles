@@ -1,0 +1,18 @@
+* My personal dotfiles
++ lf
++ zsh
++ alacritty
++ qtile
++ picom
++ emacs
++ autostart
++ neovim
++ i3
++ xmonad
++ sxiv
+See ~Doc/{program-name}.org~ for documentation on my configs.
+
+** Dependencies
+See ~Deps/{arch, debian, fedora}.org~ for instructions on installing dependencies
+
+
